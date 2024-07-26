@@ -28,6 +28,10 @@ Pour installer l'application, suivez ces étapes :
 2. Cliquez sur "Installer".
 3. Ouvrez l'application une fois l'installation terminée.
 
+## Politique de confidentialité
+
+Pour consulter notre politique de confidentialité, veuillez visiter [ce lien](https://docs.google.com/document/d/1EzPQI-OCafZWr13KJhcAWyepW7eoXGRdWFRAmwXERsY).
+
 ## Contact
 
 Pour toute question ou suggestion, veuillez nous contacter à [darkcatstudio@outlook.com].
