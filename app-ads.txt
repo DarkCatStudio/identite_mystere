@@ -1,2 +1,1 @@
 google.com, pub-2012527926696637, DIRECT, f08c47fec0942fa0
-Add app-ads.txt
